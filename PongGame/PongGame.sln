@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PongGame", "PongGame\PongGame.vcxproj", "{264463C1-410B-48A1-AC90-9C72DFCB7FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{264463C1-410B-48A1-AC90-9C72DFCB7FD0}.Debug|x64.ActiveCfg = Debug|x64
+		{264463C1-410B-48A1-AC90-9C72DFCB7FD0}.Debug|x64.Build.0 = Debug|x64
+		{264463C1-410B-48A1-AC90-9C72DFCB7FD0}.Debug|x86.ActiveCfg = Debug|Win32
+		{264463C1-410B-48A1-AC90-9C72DFCB7FD0}.Debug|x86.Build.0 = Debug|Win32
+		{264463C1-410B-48A1-AC90-9C72DFCB7FD0}.Release|x64.ActiveCfg = Release|x64
+		{264463C1-410B-48A1-AC90-9C72DFCB7FD0}.Release|x64.Build.0 = Release|x64
+		{264463C1-410B-48A1-AC90-9C72DFCB7FD0}.Release|x86.ActiveCfg = Release|Win32
+		{264463C1-410B-48A1-AC90-9C72DFCB7FD0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C7A2D7C-5D23-4126-BE40-F95EE101B190}
+	EndGlobalSection
+EndGlobal
